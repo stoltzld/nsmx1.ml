@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><title></title></head>
+<body>
+Kanopy: <a href="intent://com.kanopy/#Intent;scheme=android-app;end">Android App</a> <a href="https://tcpl.kanopy.com">Web</a><br>
+Libby: <a href="intent://com.overdrive.mobile.android.libby/#Intent;scheme=android-app;end">Android App</a> <a href="https://libbyapp.com">Web</a><br>
+Hoopla: <a href="intent://com.hoopladigital.android/#Intent;scheme=android-app;end">Android App</a> <a href="https://www.hoopladigital.com">Web</a><br>
+</body>
+</html>
